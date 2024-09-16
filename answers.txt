@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git may be considered by developers as a version control system for a project or team, allowing them to keep track of code history and helps manage collaboration.
