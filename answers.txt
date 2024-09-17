@@ -5,3 +5,7 @@ Answer: Git may be considered by developers as a version control system for a pr
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to transportation. Deriving insights from how many people ride certain public transportations, at what times, and how often can help inform decision-making on optimizing costs and improving service. 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging a branch "a" into branch "b" would bring the changes from "a" into "b," adding 1 new commit into "b" without affecting the commit history of "a." Rebasing "b" to incorporate the changes of "a" would instead rewrite the commit history by shifting the commits of "b" to occur after the latest commit in "a."
